@@ -184,6 +184,7 @@ a{text-decoration: none;}
     color: #ffffff;
     outline: none;
     cursor: pointer;
+    overflow: hidden;
 }
 .search-box .search-btn:hover
 {
